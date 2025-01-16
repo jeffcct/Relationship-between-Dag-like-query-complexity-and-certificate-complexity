@@ -1,4 +1,18 @@
 body {
     background-color: black;
+    align-items: 'center';
+    justify-content: 'center';
 }
 
+.centerer {
+    text-align: center;
+}
+
+embed {
+    height: 98vh;
+    width: 95vw;
+    margin: 'auto';
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0;
+}
